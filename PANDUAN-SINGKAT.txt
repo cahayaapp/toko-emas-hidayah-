@@ -1,0 +1,18 @@
+TOKO EMAS HIDAYAH v2.0.0
+GITHUB PAGES + FIREBASE DATA
+
+1. Buka Terminal pada folder paket.
+2. Jalankan:
+   npx firebase-tools@latest use tokoemas-79e07
+   npx firebase-tools@latest deploy --only firestore:rules,firestore:indexes
+
+3. Upload seluruh isi paket ke repository GitHub.
+4. Repository Settings > Pages.
+5. Source: Deploy from a branch.
+6. Branch: main.
+7. Folder: /docs.
+8. Tambahkan domain nama-user.github.io pada Firebase Authentication > Settings > Authorized domains.
+9. Buka URL GitHub Pages dan lakukan Aktivasi Awal.
+
+JANGAN DEPLOY FIREBASE HOSTING.
+Nama toko: Toko Emas Hidayah.

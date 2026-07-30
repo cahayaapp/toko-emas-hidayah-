@@ -1,0 +1,5 @@
+Toko Emas Hidayah Web App
+Version: 2.0.0
+Hosting: GitHub Pages
+Backend: Firebase Authentication + Cloud Firestore
+Firebase Hosting: Tidak digunakan
